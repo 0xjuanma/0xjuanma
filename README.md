@@ -20,7 +20,8 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
   <a href="https://github.com/0xjuanma/anvil">
     <img src="https://raw.githubusercontent.com/0xjuanma/anvil/master/assets/anvil-2.0.png" align="left" width="120" alt="Anvil">
   </a>
-  <a href="https://github.com/0xjuanma/anvil/releases/latest" style="display: inline-block; vertical-align: middle; margin-right: 6px;"><img src="https://img.shields.io/github/v/release/0xjuanma/anvil?style=flat&label=Release" alt="GitHub Release" style="height: 18px; vertical-align: middle;"></a> <h3 style="display: inline-block; margin: 0; vertical-align: middle;"><a href="https://github.com/0xjuanma/anvil">Anvil</a></h3>
+  <h3><a href="https://github.com/0xjuanma/anvil">Anvil</a></h3>
+  <a href="https://github.com/0xjuanma/anvil/releases/latest"><img src="https://img.shields.io/github/v/release/0xjuanma/anvil?style=flat&label=Release" alt="GitHub Release" style="height: 16px;"></a>
   <p>
     Anvil is a CLI tool that makes app setup, configuration management, and onboarding easier. Whether you're setting up a new machine, joining a team, or keeping your configs in sync, Anvil automates the boring setup steps and helps keep everything consistent.
   </p>
@@ -31,7 +32,8 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
   <a href="https://github.com/0xjuanma/helm">
     <img src="https://raw.githubusercontent.com/0xjuanma/helm/main/assets/helm.png" align="left" width="120" alt="Helm">
   </a>
-  <a href="https://github.com/0xjuanma/helm/releases/latest" style="display: inline-block; vertical-align: middle; margin-right: 6px;"><img src="https://img.shields.io/github/v/release/0xjuanma/helm?style=flat&label=Release" alt="GitHub Release" style="height: 18px; vertical-align: middle;"></a> <h3 style="display: inline-block; margin: 0; vertical-align: middle;"><a href="https://github.com/0xjuanma/helm">Helm</a></h3>
+  <h3><a href="https://github.com/0xjuanma/helm">Helm</a></h3>
+  <a href="https://github.com/0xjuanma/helm/releases/latest"><img src="https://img.shields.io/github/v/release/0xjuanma/helm?style=flat&label=Release" alt="GitHub Release" style="height: 16px;"></a>
   <p>
     Helm is a minimalistic, customizable pomodoro-style timer for your terminal. Protect your focus and time, guiding your work sessions with intention.
   </p>
@@ -42,9 +44,10 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
   <a href="https://github.com/0xjuanma/simple-release">
     <img src="https://raw.githubusercontent.com/0xjuanma/simple-release/main/assets/simple-release2.0.png" align="left" width="120" alt="Simple Release">
   </a>
-  <a href="https://github.com/0xjuanma/simple-release/releases/latest" style="display: inline-block; vertical-align: middle; margin-right: 6px;"><img src="https://img.shields.io/github/v/release/0xjuanma/simple-release?style=flat&label=Release" alt="GitHub Release" style="height: 18px; vertical-align: middle;"></a> <h3 style="display: inline-block; margin: 0; vertical-align: middle;"><a href="https://github.com/0xjuanma/simple-release">Simple Release</a></h3>
+  <h3><a href="https://github.com/0xjuanma/simple-release">Simple Release</a></h3>
+  <a href="https://github.com/0xjuanma/simple-release/releases/latest"><img src="https://img.shields.io/github/v/release/0xjuanma/simple-release?style=flat&label=Release" alt="GitHub Release" style="height: 16px;"></a>
   <p>
-    Reusable workflows to automatically create GitHub release notes and update changelog file from git tag push. Speed up your release process: create a tag to trigger a new GitHub release, automatically update your changelog with release details, and receive a pull request with the latest changelog changes.
+    Simple Release provides reusable workflows to automatically create GitHub release notes and update changelog file from git tag push. Speed up your release process: create a tag to trigger a new GitHub release, automatically update your changelog with release details, and receive a pull request with the latest changelog changes.
   </p>
   <br clear="left"/>
 </div>
@@ -53,7 +56,8 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
   <a href="https://github.com/0xjuanma/palantir">
     <img src="https://raw.githubusercontent.com/0xjuanma/palantir/main/assets/palantir.png" align="left" width="120" alt="Palantir">
   </a>
-  <a href="https://github.com/0xjuanma/palantir/releases/latest" style="display: inline-block; vertical-align: middle; margin-right: 6px;"><img src="https://img.shields.io/github/v/release/0xjuanma/palantir?style=flat&label=Release" alt="GitHub Release" style="height: 18px; vertical-align: middle;"></a> <h3 style="display: inline-block; margin: 0; vertical-align: middle;"><a href="https://github.com/0xjuanma/palantir">Palantir</a></h3>
+  <h3><a href="https://github.com/0xjuanma/palantir">Palantir</a></h3>
+  <a href="https://github.com/0xjuanma/palantir/releases/latest"><img src="https://img.shields.io/github/v/release/0xjuanma/palantir?style=flat&label=Release" alt="GitHub Release" style="height: 16px;"></a>
   <p>
     Palantir is a Go output library with colours, emojis, and structured logging for CLI applications. It features multiple output levels, progress indicators, and customizable formatting.
   </p>
