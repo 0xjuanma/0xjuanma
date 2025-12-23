@@ -39,6 +39,17 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 </div>
 
 <div>
+  <a href="https://github.com/0xjuanma/golazo">
+    <img src="https://raw.githubusercontent.com/0xjuanma/golazo/main/assets/golazo-logo.png" align="left" width="120" alt="Golazo">
+  </a>
+  <h3><a href="https://github.com/0xjuanma/golazo">Golazo</a></h3>
+  <p>
+    Golazo is a minimalist terminal user interface (TUI) for following football matches in real-time. Get live match updates, finished match statistics, and minute-by-minute events directly in your terminal.
+  </p>
+  <br clear="left"/>
+</div>
+
+<div>
   <a href="https://github.com/0xjuanma/simple-release">
     <img src="https://raw.githubusercontent.com/0xjuanma/simple-release/main/assets/simple-release2.0.png" align="left" width="120" alt="Simple Release">
   </a>
