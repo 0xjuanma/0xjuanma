@@ -16,6 +16,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 
 ## Open Source
 
+### CLI
 <div>
   <a href="https://github.com/0xjuanma/anvil">
     <img src="https://raw.githubusercontent.com/0xjuanma/anvil/master/assets/anvil-2.0.png" align="left" width="120" alt="Anvil">
@@ -49,27 +50,10 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
   <br clear="left"/>
 </div>
 
-<div>
-  <a href="https://github.com/0xjuanma/simple-release">
-    <img src="https://raw.githubusercontent.com/0xjuanma/simple-release/main/assets/simple-release2.0.png" align="left" width="120" alt="Simple Release">
-  </a>
-  <h3><a href="https://github.com/0xjuanma/simple-release">Simple Release</a></h3>
-  <p>
-    Simple Release provides reusable workflows to automatically create GitHub release notes and update changelog file from git tag push. Speed up your release process: create a tag to trigger a new GitHub release, automatically update your changelog with release details, and receive a pull request with the latest changelog changes.
-  </p>
-  <br clear="left"/>
-</div>
-
-<div>
-  <a href="https://github.com/0xjuanma/palantir">
-    <img src="https://raw.githubusercontent.com/0xjuanma/palantir/main/assets/palantir.png" align="left" width="120" alt="Palantir">
-  </a>
-  <h3><a href="https://github.com/0xjuanma/palantir">Palantir</a></h3>
-  <p>
-    Palantir is a Go output library with colours, emojis, and structured logging for CLI applications. It features multiple output levels, progress indicators, and customizable formatting.
-  </p>
-  <br clear="left"/>
-</div>
+### Other
+- [simple-release](https://github.com/0xjuanma/simple-release): Reusable workflows to automatically create GitHub release notes and update changelog from git tag push.
+- [claude-system](https://github.com/0xjuanma/claude-system): A collaborative configuration system for Claude Code with rules, commands, and output styles.
+- [palantir](https://github.com/0xjuanma/palantir): Go formatting library with colours, emojis, and structured outputs for CLI applications.
 
 ## 🛠️ Tech Stack
 
