@@ -36,7 +36,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
   <h3><a href="https://github.com/0xjuanma/helm">Helm</a></h3>
   <img src="https://img.shields.io/github/stars/0xjuanma/helm?style=social" alt="stars">
   <p>
-    Helm is a minimalistic, customizable pomodoro-style timer for your terminal. Protect your focus and time, guiding your work sessions with intention.
+    Minimalistic & customizable pomodoro-style timer for your terminal. Protect your focus and time, guiding your work sessions with intention.
   </p>
   <br clear="left"/>
 </div>
@@ -48,7 +48,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
   <h3><a href="https://github.com/0xjuanma/golazo">Golazo</a></h3>
   <img src="https://img.shields.io/github/stars/0xjuanma/golazo?style=social" alt="stars">
   <p>
-    Golazo is a minimalist terminal user interface (TUI) for following football matches in real-time. Get live match updates, finished match statistics, and minute-by-minute events directly in your terminal.
+    The beautiful game in your terminal. Get live match updates, finished match statistics, replay/highlights links and minute-by-minute events directly in your terminal.
   </p>
   
   <br clear="left"/>
