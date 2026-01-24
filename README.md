@@ -21,7 +21,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
   <a href="https://github.com/0xjuanma/anvil">
     <img src="https://raw.githubusercontent.com/0xjuanma/anvil/master/assets/anvil-2.0.png" align="left" width="120" alt="Anvil">
   </a>
-  <h3><a href="https://github.com/0xjuanma/anvil">Anvil</a></h3>
+  <h3><a href="https://github.com/0xjuanma/anvil">Anvil</a> <img src="https://img.shields.io/github/stars/0xjuanma/anvil?style=flat&color=orange" alt="stars"></h3>
   <p>
     Anvil is a CLI tool that makes app setup, configuration management, and onboarding easier. Whether you're setting up a new machine, joining a team, or keeping your configs in sync, Anvil automates the boring setup steps and helps keep everything consistent.
   </p>
@@ -32,7 +32,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
   <a href="https://github.com/0xjuanma/helm">
     <img src="https://raw.githubusercontent.com/0xjuanma/helm/main/assets/helm.png" align="left" width="120" alt="Helm">
   </a>
-  <h3><a href="https://github.com/0xjuanma/helm">Helm</a></h3>
+  <h3><a href="https://github.com/0xjuanma/helm">Helm</a> <img src="https://img.shields.io/github/stars/0xjuanma/helm?style=flat" alt="stars"></h3>
   <p>
     Helm is a minimalistic, customizable pomodoro-style timer for your terminal. Protect your focus and time, guiding your work sessions with intention.
   </p>
@@ -43,7 +43,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
   <a href="https://github.com/0xjuanma/golazo">
     <img src="https://raw.githubusercontent.com/0xjuanma/golazo/main/assets/golazo-logo.png" align="left" width="120" alt="Golazo">
   </a>
-  <h3><a href="https://github.com/0xjuanma/golazo">Golazo</a></h3>
+  <h3><a href="https://github.com/0xjuanma/golazo">Golazo</a> <img src="https://img.shields.io/github/stars/0xjuanma/golazo?style=flat&color=dark-green" alt="stars"></h3>
   <p>
     Golazo is a minimalist terminal user interface (TUI) for following football matches in real-time. Get live match updates, finished match statistics, and minute-by-minute events directly in your terminal.
   </p>
