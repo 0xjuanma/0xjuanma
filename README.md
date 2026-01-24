@@ -53,6 +53,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 ### Other
 - [simple-release](https://github.com/0xjuanma/simple-release): Reusable workflows to automatically create GitHub release notes and update changelog from git tag push.
 - [claude-system](https://github.com/0xjuanma/claude-system): A collaborative configuration system for Claude Code with rules, commands, and output styles.
+- [dark](https://github.com/0xjuanma/dark): My collection of dark themes for VSCode & Cursor.
 - [palantir](https://github.com/0xjuanma/palantir): Go formatting library with colours, emojis, and structured outputs for CLI applications.
 
 ## 🛠️ Tech Stack
