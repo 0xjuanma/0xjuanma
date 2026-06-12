@@ -2,7 +2,7 @@
   Hi, I'm Juanma 👋
 </h2>
 
-Dedicated Software Engineer with over 12 years of experience across Ad-tech, Privacy/Security, Financial, and Automation industries. I specialize in backend systems with strong expertise in Python, Golang, and Ruby. Passionate about designing, implementing, and troubleshooting high-traffic production systems while fostering team growth through mentoring and knowledge sharing.
+Dedicated Software Engineer with over 13 years of experience across Ad-tech, Privacy/Security, Financial, and Automation industries. I specialize in backend systems with strong expertise in Python, Golang, and Ruby. Passionate about designing, implementing, and troubleshooting high-traffic production systems while fostering team growth through mentoring and knowledge sharing.
 > Crafting tools and code so the journey is lighter for those who follow.
 
 
