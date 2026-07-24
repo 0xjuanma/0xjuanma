@@ -59,6 +59,7 @@ Dedicated Software Engineer with over 13 years of experience across Ad-tech, Pri
 - [claude-system](https://github.com/0xjuanma/claude-system): A collaborative configuration system for Claude Code with rules, commands, and output styles.
 - [dark](https://github.com/0xjuanma/dark): My collection of dark themes for VSCode & Cursor.
 - [palantir](https://github.com/0xjuanma/palantir): Go formatting library with colours, emojis, and structured outputs for CLI applications.
+- [mosaico](https://github.com/0xjuanma/mosaico): Convert video clips into retro, mosaic-style pixel-art animations.
 
 ## 🛠️ Tech Stack
 
